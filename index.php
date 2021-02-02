@@ -27,7 +27,11 @@
 <!-- i <body> har man alt indhold på siden som brugeren kan se -->
 <body>
 
-<!-- Her skal sidens indhold ligge -->
+<ul>
+    <li>1</li>
+    <li>2</li>
+    <li>3</li>
+</ul>
 
 </body>
 </html>
